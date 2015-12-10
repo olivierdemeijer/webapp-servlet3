@@ -1,4 +1,4 @@
-#### Jetty + simple Servlet API 3
-Starts jetty programatically using servlet api 3.0    
+#### Jetty + Servlet API 3 usage
+Starts jetty programatically using pure servlet api (without annotation processing and etc)
 
 Special thanks to @npryce 
